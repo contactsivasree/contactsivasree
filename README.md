@@ -10,19 +10,6 @@
 
 `DSA` · `Java` · `Algorithms` · `Competitive Programming` · `Technical Mentoring`
 
-</div>
 
-<br>
-
----
-
-<div align="center">
-
-
-<sub>Learn · Build · Solve · Evolve</sub>
-
-</div>
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:312e81,100:111827&section=footer" width="100%"/>
