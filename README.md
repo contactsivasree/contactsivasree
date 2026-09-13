@@ -1,50 +1,103 @@
-## 📈 GitHub Streak Stats
-
 <div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevSushant03&theme=tokyonight&hide_border=true)
-  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,100:312e81&text=SIVASREE&fontColor=ffffff&fontSize=52&fontAlignY=42&desc=Technical%20Trainer%20%20%7C%20%20DSA%20%20%7C%20%20Programming&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
+
+<br>
+
+### Building better problem solvers.
+
+<br>
+
+`DSA` · `Java` · `Algorithms` · `Competitive Programming` · `Technical Mentoring`
+
 </div>
 
-## 📊 Activity Graph
+<br>
+
+---
 
 <div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevSushant03&theme=tokyo-night&hide_border=true&area=true)
-  
+
+## ✦ Selected Work
+
 </div>
 
-## 🔥 Contribution Stats
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+### 🧠 DSA Learning Hub
+
+**Learn · Practice · Understand**
+
+Structured problem-solving resources  
+designed around intuition, approach,  
+complexity and implementation.
+
+</td>
+
+<td width="50%" align="center">
+
+### ⚡ Programming
+
+**Build · Experiment · Solve**
+
+Practical coding projects,  
+algorithms and hands-on  
+programming work.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
 
 <div align="center">
-  
-  ![Contributions](https://github-contributor-stats.vercel.app/api?username=DevSushant03&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-  
+
+## ✦ Technology
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,git,github,maven,idea,vscode" />
+
 </div>
 
-## ⏰ Productive Time & Commit Stats
+<br>
+
+---
 
 <div align="center">
-  
-  ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevSushant03&theme=tokyonight)
-  
-  ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevSushant03&theme=tokyonight)
-  
+
+## ✦ GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=contactsivasree&show_icons=true&hide_border=true&theme=transparent&title_color=111827&text_color=4b5563&icon_color=4f46e5&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=contactsivasree&layout=compact&hide_border=true&theme=transparent&title_color=111827&text_color=4b5563" height="165"/>
+
 </div>
 
-## 📊 GitHub Profile Summary
+<br>
+
+---
 
 <div align="center">
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevSushant03&theme=tokyonight" alt="Profile Summary"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevSushant03&theme=tokyonight" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevSushant03&theme=tokyonight" alt="Most Commit Language"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevSushant03&theme=tokyonight" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevSushant03&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-  
+
+### Let's build something meaningful.
+
+<br>
+
+<a href="https://github.com/contactsivasree">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<sub>Learn · Build · Solve · Evolve</sub>
+
 </div>
 
-<!--Different Themes Available:
-Replace tokyonight with: radical, merko, gruvbox, dark, radical, dracula, monokai, vue, synthwave, highcontrast, github_dark, nord, nightowl, gotham -->
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:312e81,100:111827&section=footer" width="100%"/>
