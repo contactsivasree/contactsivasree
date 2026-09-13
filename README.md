@@ -1,18 +1,26 @@
 <div align="center">
 
-<img src="./assets/profile-banner-animated.gif" width="100%" alt="Sivasree — Technical Trainer, DSA, Programming"/>
+<h1>SIVASREE</h1>
+
+<h3>Technical Trainer · DSA · Programming</h3>
+
+<p><strong>Building better problem solvers.</strong></p>
+
+<p>
+DSA · Java · Python · Web Development · MERN · Algorithms · Technical Mentoring
+</p>
 
 <br>
 
-### Building better problem solvers.
-
-<sub>
-DSA &nbsp;·&nbsp; Java &nbsp;·&nbsp; Python &nbsp;·&nbsp; Web Development &nbsp;·&nbsp; MERN &nbsp;·&nbsp; Algorithms &nbsp;·&nbsp; Technical Mentoring
-</sub>
+<a href="https://contactsivasree.github.io/contactsivasree/">
+  <strong>✦ VIEW INTERACTIVE PROFILE →</strong>
+</a>
 
 <br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/contactsivasree)
+<a href="https://github.com/contactsivasree">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 </div>
 
@@ -20,13 +28,17 @@ DSA &nbsp;·&nbsp; Java &nbsp;·&nbsp; Python &nbsp;·&nbsp; Web Development &nb
 
 <div align="center">
 
-### ✦ Selected Work
+<h3>✦ Selected Work</h3>
+
+<p>
+<strong>DSA Learning Hub</strong>
+&nbsp; · &nbsp;
+<strong>Programming Projects</strong>
+&nbsp; · &nbsp;
+<strong>Technical Resources</strong>
+</p>
 
 <br>
-
-**DSA Learning Hub** &nbsp; · &nbsp; **Programming Projects** &nbsp; · &nbsp; **Technical Resources**
-
-<br><br>
 
 <sub>Learn · Build · Solve · Evolve</sub>
 
